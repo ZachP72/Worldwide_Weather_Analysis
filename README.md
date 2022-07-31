@@ -10,3 +10,7 @@ In this analysis I used API Keys to determine vacation spots and itineraries whi
 - Customer Travel Destinations Map
 ![image](https://user-images.githubusercontent.com/95777297/182006834-a444ecf3-f0ff-4a29-add9-23b569d1bf85.png)
 ![image](https://user-images.githubusercontent.com/95777297/182006841-6d9be95e-f764-433f-99cb-8b6c098a2339.png)
+
+- Travel Itinerary Map
+![image](https://user-images.githubusercontent.com/95777297/182006853-8b711c70-f0ec-4552-a5b7-4f222db2f072.png)
+![image](https://user-images.githubusercontent.com/95777297/182006854-f229d83a-73cf-4eba-a6c2-47635227adbe.png)
